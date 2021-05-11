@@ -1,0 +1,10 @@
+2021-05-11 12:17:31: Initializing  valve controller
+2021-05-11 12:17:42: Initializing valves...
+2021-05-11 12:17:42: 	Initializing valve1
+2021-05-11 12:17:44: 	Initializing valve2
+2021-05-11 12:17:46: 	Initializing valve3
+2021-05-11 12:17:48: 	Initializing valve4
+2021-05-11 12:17:50: Initializing i2c bus
+2021-05-11 12:17:50: Initializing thermistor sensing
+2021-05-11 12:17:50: starting time measurement
+2021-05-11 12:17:50: Error initializing i2c pressuresensor on adress: 32. Please check bus. Error message: [Errno 121] Remote I/O error
